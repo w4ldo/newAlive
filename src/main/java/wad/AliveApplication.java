@@ -15,10 +15,10 @@ public class AliveApplication {
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/w4ldo/newAlive";
     }
 
     public static String herokuUrl() {
-        return "";
+        return "herokuapp.com";
     }
 }
