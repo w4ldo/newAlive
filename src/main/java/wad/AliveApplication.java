@@ -11,7 +11,7 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/w4ldo/newAlive";
     }
 
     public static String travisUrl() {
