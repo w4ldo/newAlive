@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "herokuapp.com";
+        return "https://new-alive.herokuapp.com/";
     }
 }
